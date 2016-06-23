@@ -1,2 +1,2 @@
 # VCA-v9
-Some features on for MCPE
+Some features for MCPE
