@@ -7,3 +7,5 @@ Achievements :
 Link :
 
 - https://github.com/RJxMoDz/VCA-v9/releases
+
+THIS MOD USES CODE FROM OTHERS! WE RECOMMEND YOU NOT TO USE IT!
