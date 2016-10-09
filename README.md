@@ -1,6 +1,6 @@
 Achievements :
 
-- [x] 100 Mods
+- [x] 100 Modules
 
 - [x] 14 000 Line's of Codes
 
